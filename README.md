@@ -1,2 +1,2 @@
 # masterHRO
-All code belongibg to my master 
+All code belonging to my physics master 
